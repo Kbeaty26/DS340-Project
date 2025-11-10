@@ -5,12 +5,12 @@
 94,Healthy
 108,COPD
 63,COPD
-52,Lung
+52,Lung Fibrosis
 49,Healthy
 46,Asthma
 41,Pneumonia
 15,Asthma
-52,Lung
+52,Lung Fibrosis
 81,Healthy
 89,Healthy
 79,Asthma
@@ -45,7 +45,7 @@
 104,Asthma
 1,Asthma
 92,Healthy
-52,Lung
+52,Lung Fibrosis
 32,Healthy
 36,Pneumonia
 112,Healthy
@@ -64,14 +64,14 @@
 43,Asthma
 55,Asthma
 64,Asthma
-26,Lung
+26,Lung Fibrosis
 106,Asthma
 57,COPD
 48,Healthy
 85,Healthy
 91,Asthma
 94,Healthy
-26,Lung
+26,Lung Fibrosis
 21,BRON
 3,Asthma
 89,Healthy
@@ -147,13 +147,13 @@
 15,Asthma
 84,Healthy
 80,Asthma
-6,Plueral
+6,Plueral Effusion
 48,Healthy
-8,Plueral
-26,Lung
+8,Plueral Effusion
+26,Lung Fibrosis
 85,Healthy
 79,Asthma
-6,Plueral
+6,Plueral Effusion
 88,Healthy
 72,Healthy
 47,Asthma
@@ -207,9 +207,9 @@
 30,Healthy
 22,BRON
 48,Healthy
-8,Plueral
+8,Plueral Effusion
 85,Healthy
-6,Plueral
+6,Plueral Effusion
 84,Healthy
 53,Asthma
 65,Asthma
@@ -221,13 +221,13 @@
 88,Healthy
 72,Healthy
 111,COPD
-8,Plueral
+8,Plueral Effusion
 10,Asthma
 87,Healthy
 103,Healthy
 51,Healthy
 62,COPD
-23,Lung
+23,Lung Fibrosis
 2,Asthma
 32,Healthy
 101,Asthma
@@ -239,11 +239,11 @@
 71,Healthy
 100,Healthy
 108,COPD
-105,Lung
+105,Lung Fibrosis
 86,Healthy
 98,Healthy
 37,Pneumonia
-105,Lung
+105,Lung Fibrosis
 62,COPD
 99,Healthy
 93,Healthy
@@ -256,14 +256,14 @@
 70,Healthy
 21,BRON
 97,Asthma
-23,Lung
+23,Lung Fibrosis
 58,Asthma
 35,Asthma
-23,Lung
+23,Lung Fibrosis
 27,Asthma
 2,Asthma
 101,Asthma
-105,Lung
+105,Lung Fibrosis
 89,Healthy
 81,Healthy
 61,COPD
