@@ -1,0 +1,2 @@
+'audioDataMendeley/Audio files/BP79_Asthma,E W,A R U,46,M.wav'
+'/Users/katherinebeaty/.cache/kagglehub/datasets/vbookshelf/respiratory-sound-database/versions/2/Respiratory_Sound_Database/Respiratory_Sound_Database/audio_and_txt_files/162_2b3_Ar_mc_AKGC417L.wav'
